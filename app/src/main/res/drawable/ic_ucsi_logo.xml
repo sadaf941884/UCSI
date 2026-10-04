@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="60dp"
+    android:viewportWidth="200"
+    android:viewportHeight="60">
+
+    <!-- University Shield / Crest (Left side) -->
+    <path
+        android:fillColor="#B81D24"
+        android:pathData="M30,8 C42,8 50,14 50,26 C50,44 30,54 30,54 C30,54 10,44 10,26 C10,14 18,8 30,8 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFC72C"
+        android:strokeWidth="1.5"
+        android:pathData="M30,11 C40,11 47,16 47,26 C47,42 30,51 30,51 C30,51 13,42 13,26 C13,16 20,11 30,11 Z" />
+
+    <!-- Crest Internal Details: Torch & Book in Gold/White -->
+    <path
+        android:fillColor="#FFC72C"
+        android:pathData="M30,15 C32,18 34,21 32,24 C30,26 28,26 26.5,24 C25,21 27,18 30,15 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M23,28 C26,27.5 29,28 30,29.5 C31,28 34,27.5 37,28 C37,33 34,34.5 30,35 C26,34.5 23,33 23,28 Z" />
+    <path
+        android:fillColor="#B81D24"
+        android:pathData="M29.5,29.5 L30.5,29.5 L30.5,35 L29.5,35 Z" />
+    <path
+        android:fillColor="#FFC72C"
+        android:pathData="M30,37 L31,39.5 L34,39.5 L31.5,41 L32.5,44 L30,42.5 L27.5,44 L28.5,41 L26,39.5 L29,39.5 Z" />
+
+    <!-- Typography: UCSI (Bold) -->
+    <!-- U -->
+    <path
+        android:fillColor="#B81D24"
+        android:pathData="M60,14 L65,14 L65,26 C65,30 68,32 72,32 C76,32 79,30 79,26 L79,14 L84,14 L84,26 C84,33 79,36 72,36 C65,36 60,33 60,26 Z" />
+    <!-- C -->
+    <path
+        android:fillColor="#B81D24"
+        android:pathData="M110,18 L106,21 C104,18 101,17 97,17 C91,17 87,21 87,27 C87,33 91,37 97,37 C101,37 104,36 106,33 L110,36 C107,40 102,42 97,42 C88,42 82,36 82,27 C82,18 88,12 97,12 C102,12 107,14 110,18 Z" />
+    <!-- S -->
+    <path
+        android:fillColor="#B81D24"
+        android:pathData="M115,34 L119,32 C120,35 123,37 127,37 C130,37 132,36 132,34 C132,32 130,31 124,30 C118,29 115,26 115,21 C115,16 120,12 126,12 C131,12 136,15 137,19 L133,21 C132,18 129,17 126,17 C123,17 120,18 120,20 C120,22 122,23 128,24 C134,25 137,28 137,33 C137,39 132,42 126,42 C120,42 116,39 115,34 Z" />
+    <!-- I -->
+    <path
+        android:fillColor="#B81D24"
+        android:pathData="M143,14 L148,14 L148,40 L143,40 Z" />
+
+    <!-- Subtext: UNIVERSITY BANGLADESH (Navy) -->
+    <path
+        android:fillColor="#0E1E38"
+        android:pathData="M60,46 H195 V48 H60 Z" />
+</vector>

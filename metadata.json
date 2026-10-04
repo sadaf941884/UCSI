@@ -1,0 +1,6 @@
+{
+  "name": "UCSI Bangladesh",
+  "description": "Official mobile campus platform for UCSI University Bangladesh Branch Campus, Banani, Dhaka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
